@@ -35,11 +35,11 @@
     "@rollup/plugin-json": "6.1.0",
     "@rollup/plugin-node-resolve": "16.0.3",
     "prettier": "3.7.4",
-    "rollup": "4.53.3"
+    "rollup": "4.55.1"
   },
   "dependencies": {
-    "@actions/core": "1.11.1",
-    "@actions/github": "6.0.1",
+    "@actions/core": "2.0.2",
+    "@actions/github": "7.0.0",
     "got": "14.6.6"
   }
 }
